@@ -146,8 +146,8 @@ h5 {
 h2 {
   font-size: 45px;
 }
-.quote-section {
-  display: none;
+.quote {
+  display: block !important;
 }
 /* ------Goble-Css-End------ */
 /* -----header-section-start------- */
